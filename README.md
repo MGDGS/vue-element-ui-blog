@@ -1,5 +1,6 @@
 # vue-element-ui-blog
 基于VUE+Element-ui的个人博客实现
+[演示地址](http://106.52.104.235/)
 
 当前更新: 
 
