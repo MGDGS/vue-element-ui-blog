@@ -4,10 +4,8 @@
 
 当前更新: 
 
+不知为什么图片显示不出来，就不放效果图了，可以到演示地址查看（pc端噢）
 ## 播放控制组件
-同样的，先上一下效果图
-![歌曲控制组件](https://img-blog.csdnimg.cn/20200523113246667.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDIwMDI4OA==,size_16,color_FFFFFF,t_70#pic_center)
-可以看到这里主要分为两个部分，一个是放置歌曲进度条、控制歌曲播放顺序等，一个就是当前播放列表了。
 
 ### 1、引入vuex
 
